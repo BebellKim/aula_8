@@ -23,12 +23,6 @@ public class Atividade08 {
 		if(v1 == v2 && v1 == v3)
 			System.out.println("Todos são iguais");
 		
-		else if(v1 > v2 && v1 == v3)
-			System.out.println("O valor 1 e 3 saõ iguais e maiores que o valor 2"+ v1);
-		
-		else if(v2 > v1 && v2 == v3)
-			System.out.println("O valor 2 e 3 saõ iguais e maiores que o valor 1"+ v2);
-		
 		else if(v1 > v2 && v1 > v3)
 			System.out.println("O valor 1 é maior "+ v1);
 		
